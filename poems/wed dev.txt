@@ -1,0 +1,9 @@
+In the world of the web, Where the code never sleeps, Developers work hard, To make websites that leap.
+
+They write lines of code, And debug with great care, To make sure their sites, Are both fast and fair.
+
+They use HTML and CSS, And JavaScript too, To create pages that shine, And are easy to view.
+
+With frameworks like React, And libraries like jQuery, They build sites that are modern, And look oh so pretty.
+
+So if you’re looking to build, A site that’s top-notch, Find a web developer, And watch your site take off!
