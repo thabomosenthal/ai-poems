@@ -1,0 +1,13 @@
+Deeper Into the Stack
+
+The path descends, the landscape growing steep,Where simple functions secrets softly keep.The sacred rhythm of the React Hook,The power $useState$ and $useEffect$ took.No classes now, but closures hold the keys,Managing state with focused, fluid ease.$useMemo$, $useCallback$—a performance plea,To guard against re-renders needlessly.
+
+Then comes the call for data, clean and bright,He masters APIs in the fading light.The classic $fetch()$, a promise on the wire,But then the state management takes him higher.TanStack Query arrives, a trusted guide,To cache the calls and let the errors hide.Loading screens diminish, smooth the user's view,The complex network handled, good and true.
+
+The architecture splits, a defining line,Between the client's view and server's design.He weighs the balance of the $’use\ client’$ tag,Where heavy logic starts to drag and lag.Server Components, rendering the start,A modern challenge for the coding heart.A dizzying dance of hydration, fast and fleet,Ensuring quick loads and an experience sweet.
+
+The UI appears, a polished, pristine sight,Thanks to Radix primitives, built just right.Then Shadcn comes, a library, yet not quite,Just copied code to own the source of light.A scroll through package.json, a weary scan,The dependencies grow beyond his plan.A hundred names, a complicated chain,To render modals and to soften pain.
+
+He pauses, haunted by a simpler time,The quick delight of HTML's pure rhyme.A single CSS file, a script-tag small,Before the Babel, before the Webpack call.The nostalgia stings, a yearning for the past,To build a page where concepts weren't so vast.
+
+But then he sees the power he has gained:The perfect table data, finely constrained.The instant feedback, zero-latency grace,A complex form that holds its rightful place.The scale he wields, the features he can bring,The modern solutions that the systems sing.He cannot turn back, the river's flow too strong,The future's built where dependencies throng.He nods, accepts the cost of being new,And pushes forward, dedicated, true.
